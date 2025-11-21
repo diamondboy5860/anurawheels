@@ -1,0 +1,20 @@
+{
+    "name": "Happy Wheels",
+    "icon": "happywheels.png",
+    "summary": "An anura app for the greatest game in the world",
+    "desc": "iFramed version of Happy Wheels",
+    "package": "happywheels.app",
+    "data": "app.zip",
+    "screenshots": [
+      {
+        "path": "screenshots/something.png",
+        "desc": "(screenshot desc)" 
+      },
+      {
+        "path": "screenshots/something2.png",
+        "desc": "(screenshot desc)" 
+      }
+    ],
+    "version": "1.0.0",
+    "category": "games"
+}
